@@ -78,4 +78,4 @@ Node yang tidak aktif atau tidak ikut voting tidak mempengaruhi hasil orbit.
 
 
 ---
-
+> Satu orbit = satu ruang waktu kolektif. Jika semua sepakat, maka sebanyak apapun terjadi peristiwa sah di dalamnya.
