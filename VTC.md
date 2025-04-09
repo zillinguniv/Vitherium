@@ -79,14 +79,3 @@ Node yang tidak aktif atau tidak ikut voting tidak mempengaruhi hasil orbit.
 
 ---
 
-Keunggulan Sistem
-
-Tahan manipulasi: Tidak bisa dipercepat atau diperlambat sepihak.
-
-Self-healing: Node yang tersesat bisa kembali otomatis.
-
-Skalabel: Bisa digunakan pada ribuan hingga jutaan node.
-
-Realistis: Meniru cara waktu bekerja di dunia nyata (berbasis konsensus, bukan absolut).
-
-
